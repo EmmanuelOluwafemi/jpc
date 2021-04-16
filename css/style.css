@@ -542,6 +542,7 @@ footer .article {
 footer .article p {
     margin-left: 1rem;
     text-transform: capitalize;
+    text-align: left;
 }
 
 footer .footerNote {
